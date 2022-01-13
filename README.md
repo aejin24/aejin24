@@ -15,6 +15,17 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
   </div>
 
+* BE
+  <div>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/>
+  </div>
+  
+* Server
+  <div>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  </div>
+
 * Communication
   <div>
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
@@ -34,7 +45,3 @@
   <div>
     <img src="https://img.shields.io/badge/VSCode-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   </div>
-  
----
-  
-[![aejin24's GitHub stats](https://github-readme-stats.vercel.app/api?username=aejin24&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
