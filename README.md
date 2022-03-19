@@ -28,3 +28,9 @@
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </div>
+
+
+---
+
+### 🍀 BLOG
+[Notion](https://guiltless-slug-fcb.notion.site/BLOG-c832c846867f4ec78acfca9efa6ba855)
