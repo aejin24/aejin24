@@ -31,4 +31,4 @@
 
 ---
 
-### 🍀 BLOG - [Notion](https://guiltless-slug-fcb.notion.site/BLOG-c832c846867f4ec78acfca9efa6ba855)
+### 🍀 BLOG - [Notion](https://velog.io/@aejin24)
