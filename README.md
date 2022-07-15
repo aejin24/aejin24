@@ -31,4 +31,4 @@
 
 ---
 
-### 🍀 BLOG - [Notion](https://velog.io/@aejin24)
+### 🍀 BLOG - [Velog](https://velog.io/@aejin24)
